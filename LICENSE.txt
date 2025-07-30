@@ -1,6 +1,6 @@
 MIT License (modified for HTDE)
 
-Copyright (c) 2025 あなたの名前（または HTDE 制作チーム）
+Copyright (c) 2025 mousoukeinohito
 
 Permission is hereby granted, free of charge, to any person obtaining a copy  
 of this software and associated documentation files (the "Software"), to deal  
@@ -25,5 +25,5 @@ THE SOFTWARE.
 
 - 本ソフトウェアの**改造版を再配布することは禁止**します。
 - 個人利用や**SNS・動画などでの紹介・使用は自由**に行って構いません。
-- 商用利用は現在許可していません（相談が必要です）。
+- 商用利用はパクリなどの商業利用以外の商業利用（YouTubeなどの収益）は許可しています。
 - 著作権表記および本ライセンスを削除しないでください。
