@@ -1,4 +1,3 @@
-HTDE ver1.0 公式サイト用紹介・案内文（文章のみ）
 1. HTDEとは？
 HTML The Download Edition（HTDE）は、ブラウザ上で動作する最新の文字PV（プロモーションビデオ）作成ツールです。HTML5・JavaScriptベースで、ローカル環境でも高速かつ多機能に動作します。
 
