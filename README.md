@@ -27,8 +27,7 @@ HTDEは、ブラウザで動作する多機能な文字PV作成ツールです�
 
 HTDEに関するご質問、ご意見、クレームは以下の方法でご連絡ください。
 
-- メール：support@example.com  
-- GitHub Issues：https://github.com/yourusername/yourrepository/issues
+https://scratch.mit.edu/projects/1202420941/
 
 迅速かつ誠実に対応いたしますが、内容によっては返信に時間がかかる場合があります。  
 ご理解のほどよろしくお願いいたします。
